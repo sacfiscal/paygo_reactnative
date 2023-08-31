@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "paygo",
+    "slug": "paygo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0fb408a1-5073-4569-9e1b-2ef9fd003fc3"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+export const ClientSchema = {
+  name: "Client",
+  properties: {
+    _id: "int",
+    cnpj_cpf: "string",
+    razao_social: "string",
+    nome_fantasia: "string",
+    logradouro: "string",
+    numero: "string",
+    complemento: "string",
+    bairro: "string",
+    codigo_municipio: "string",
+    municipio: "string",
+    uf: "string",
+    cep: "string",
+    fone: "string",
+    ie: "string",
+    email: "string",
+    tipo: "int",
+  },
+  primaryKey: "_id",
+};
